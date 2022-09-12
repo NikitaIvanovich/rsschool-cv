@@ -10,7 +10,7 @@
 
 # About Me:
  My name is Nikita, I am 26 years old, I work as a engineer.
- >end more...
+ >end more....
 
 # Skill:
 * HTMl
